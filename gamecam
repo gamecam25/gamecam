@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GameCam - Veja o jogo como nunca viu antes</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #004d4d;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2em;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .section h2 {
+      color: #004d4d;
+    }
+    .highlight {
+      background-color: #e6f2f2;
+      border-left: 6px solid #008080;
+      padding: 20px;
+      margin: 20px 0;
+    }
+    .cta {
+      background-color: #008080;
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .cta h2 {
+      margin-bottom: 20px;
+    }
+    .cta button {
+      background-color: white;
+      color: #008080;
+      border: none;
+      padding: 15px 30px;
+      font-size: 1em;
+      cursor: pointer;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #004d4d;
+      color: white;
+    }
+    img.full {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GameCam</h1>
+    <p>Veja o jogo como nunca viu antes</p>
+  </header>
+
+  <img class="full" src="game-footage.jpg" alt="Imagem de jogo de futebol sendo filmado">
+
+  <div class="section">
+    <h2>Gravação e Transmissão de Jogos</h2>
+    <p>Captamos cada lance do seu jogo com a tecnologia da câmera VEO. Imagens em alta definição, transmissões ao vivo e análise detalhada de performance.</p>
+    <div class="highlight">
+      Ideal para clubes, escolas, empresários e famílias que valorizam o desenvolvimento no futebol.
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Pacotes Disponíveis</h2>
+    <ul>
+      <li>Pacote Básico (1 jogo): R$ 450</li>
+      <li>Com análise + destaques: R$ 650</li>
+      <li>Pacote temporada (8 jogos): R$ 3.200</li>
+      <li>Vídeo individual para atleta: R$ 150 (adicional)</li>
+      <li>Pacote empresário (5 vídeos): R$ 800</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Região de Atuação</h2>
+    <p>Atendemos Lajeado, Estrela, Teutônia, Arroio do Meio, Encantado, Venâncio Aires e também Porto Alegre e região metropolitana.</p>
+  </div>
+
+  <div class="cta">
+    <h2>Quer filmar seu próximo jogo?</h2>
+    <p>Entre em contato agora mesmo e leve a GameCam para o seu campo.</p>
+    <button>Fale Conosco</button>
+  </div>
+
+  <footer>
+    &copy; 2025 GameCam. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
